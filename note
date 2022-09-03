@@ -1,0 +1,20 @@
+var myHeaders = new Headers();
+myHeaders.append("Content-Type", "application/json");
+
+var raw = JSON.stringify({
+  "to": "ecovastubuilders@gmail.com",
+  "subject": "info@ecovastubuilders.com",
+  "text": "info@ecovastubuilders.com"
+});
+
+var requestOptions = {
+  method: 'POST',
+  headers: myHeaders,
+  body: raw,
+  redirect: 'follow'
+};
+
+fetch("https://us-central1-firetrial-70c6b.cloudfunctions.net/sendmailecovastu", requestOptions)
+  .then(response => response.text())
+  .then(result => console.log(result))
+  .catch(error => console.log('error', error));

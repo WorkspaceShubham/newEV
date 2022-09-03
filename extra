@@ -1,0 +1,223 @@
+<section class="eco-section eco-pt eco-pb eco-counter">
+	<div class="img image-overlay blog-img" style="background-image: url(images/eco/Mdhumilind.jpg);"></div>
+	<div class="container">
+		<div class="row no-gutters">
+			<div class="col-md-6 py-5 bg-secondary aside-stretch">
+				<div class="row justify-content-center mb-4 pt-md-4">
+					<div class="col-md-12 heading-section eco-animate">
+						<span class="subheading">Welcome to ECOVASTUBUILDERS</span>
+						<h2 class="mb-4">MADHUMILIND RESIDENCY </h2>
+						<div class="d-flex about">
+							<!-- <div class="icon"><span class="flaticon-hammer"></span></div> -->
+							<h3>1BHK BUDGET , 1BHK LUXURY , 3BHK LUXURY FLATS ,<br>
+								SHOPS ARE AVAILABLE.
+							</h3>
+						</div>
+						<div class="d-flex about">
+							<!-- <div class="icon"><span class="flaticon-hammer"></span></div> -->
+							<h3>We're in this business since 1975 and We provide the best insdustrial services</h3>
+						</div>
+						<p>You pay realtors because they have reach and proven results, and the ECOVASTUBUILDERS
+							wants you to know it’s extraordinary at both. It helps that the results-driven sentiment
+							here drives home the abstract idea of “extraordinary reach”</p>
+						<div class="d-flex video-image align-items-center mt-md-4">
+							<!-- <a href="#" class="video img d-flex align-items-center justify-content-center"
+									style="background-image: url(images/eco/Mdhumilind.jpg);">
+									<span class="fa fa-play-circle"></span>
+								</a> -->
+							<div class="d-flex about ml-5">
+								<!-- <div class="icon"><span class="flaticon-hammer"></span></div> -->
+								<h3>REFRESH YOUR LIVING AT VRUNDAVAN
+								</h3>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-6 d-flex align-items-center">
+				<div class="row">
+					<div class="col-md-12 d-flex counter-wrap eco-animate">
+						<div class="block-18 bg-primary d-flex align-items-center justify-content-between">
+							<div class="icon d-flex align-items-center justify-content-center"><span
+									class="flaticon-engineer"></span></div>
+							<div class="text">
+								<strong class="number" data-number="54">0</strong>
+								<span>Project Completed</span>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-12 d-flex counter-wrap eco-animate">
+						<div class="block-18 d-flex align-items-center justify-content-between">
+							<div class="icon d-flex align-items-center justify-content-center"><span
+									class="flaticon-worker-1"></span></div>
+							<div class="text">
+								<strong class="number" data-number="42">0</strong>
+								<span>EXPERIENCE</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+
+
+<!-- about -->
+
+<section class="eco-section" id="about-section">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-6 d-flex align-items-stretch">
+				<div class="about-wrap img w-100" style="background-image: url(images/eco/Mdhumilind.jpg);">
+				</div>
+			</div>
+			<div class="col-md-6 py-5 pl-md-5">
+				<div class="row justify-content-center mb-4 pt-md-4" style="background-color: black;">
+					<div class="col-md-12 heading-section eco-animate">
+						<span class="subheading">Welcome to ECOVASTUBUILDERS</span>
+						<h2 class="mb-4">MADHUMILIND RECIDENCY</h2>
+						<div class="d-flex about">
+							<!-- <div class="icon"><span class="flaticon-hammer"></span></div> -->
+							<h3>1BHK BUDGET , 1BHK LUXURY , 3BHK LUXURY FLATS ,<br>
+								SHOPS ARE AVAILABLE.
+							</h3>
+						</div>
+						<div class="d-flex about">
+							<!-- <div class="icon"><span class="flaticon-hammer"></span></div> -->
+							<h3>We're in this business since 1975 and We provide the best insdustrial services</h3>
+						</div>
+						<p>You pay realtors because they have reach and proven results, and the ECOVASTUBUILDERS
+							wants you to know it’s extraordinary at both. It helps that the results-driven sentiment
+							here drives home the abstract idea of “extraordinary reach”</p>
+						<div class="d-flex video-image align-items-center mt-md-4">
+							<!-- <a href="#" class="video img d-flex align-items-center justify-content-center"
+								style="background-image: url(images/eco/Mdhumilind.jpg);">
+								<span class="fa fa-play-circle"></span>
+							</a> -->
+							<div class="d-flex about ml-5">
+								<!-- <div class="icon"><span class="flaticon-hammer"></span></div> -->
+								<h3>REFRESH YOUR LIVING AT VRUNDAVAN
+								</h3>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-6 d-flex align-items-center">
+						<div class="row">
+							<div class="col-md-12 d-flex counter-wrap eco-animate">
+								<div class="block-18 bg-primary d-flex align-items-center justify-content-between">
+									<div class="icon d-flex align-items-center justify-content-center"><span
+											class="flaticon-engineer"></span></div>
+									<div class="text">
+										<strong class="number" data-number="54">0</strong>
+										<span>Project Completed</span>
+									</div>
+								</div>
+							</div>
+							<div class="col-md-12 d-flex counter-wrap eco-animate">
+								<div class="block-18 d-flex align-items-center justify-content-between">
+									<div class="icon d-flex align-items-center justify-content-center"><span
+											class="flaticon-worker-1"></span></div>
+									<div class="text">
+										<strong class="number" data-number="42">0</strong>
+										<span>EXPERIENCE</span>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="col-md-6 d-flex align-items-center">
+			<div class="row">
+				<div class="col-md-12 d-flex counter-wrap eco-animate">
+					<div class="block-18 bg-primary d-flex align-items-center justify-content-between">
+						<div class="icon d-flex align-items-center justify-content-center"><span
+								class="flaticon-engineer"></span></div>
+						<div class="text">
+							<strong class="number" data-number="54">0</strong>
+							<span>Project Completed</span>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-12 d-flex counter-wrap eco-animate">
+					<div class="block-18 d-flex align-items-center justify-content-between">
+						<div class="icon d-flex align-items-center justify-content-center"><span
+								class="flaticon-worker-1"></span></div>
+						<div class="text">
+							<strong class="number" data-number="42">0</strong>
+							<span>EXPERIENCE</span>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+
+
+<!-- Testimonials -->
+<div class="item">
+	<div class="testimony-wrap py-4 pb-5 d-flex justify-content-between align-items-end">
+		<!-- <div class="user-img" style="background-image: url(images/person_2.jpg)">
+			<span class="quote d-flex align-items-center justify-content-center">
+				<i class="fa fa-quote-left"></i>
+			</span>
+		</div> -->
+		<div class="text">
+			<p class="mb-4">he project is embellished with superb interior . There are
+				2 -3 lifts have been planned and the window will be decorated with the
+				aluminum
+				slides. YASHRAJ COMPLEX Project has sufficient points of electrical points
+				with
+				the furniture layout.</p>
+			<p class="name">RAJU PATIL</p>
+			<span class="position">OWNER</span>
+		</div>
+	</div>
+</div>
+<div class="item">
+	<div class="testimony-wrap py-4 pb-5 d-flex justify-content-between align-items-end">
+		<!-- <div class="user-img" style="background-image: url(images/person_2.jpg)">
+			<span class="quote d-flex align-items-center justify-content-center">
+				<i class="fa fa-quote-left"></i>
+			</span>
+		</div> -->
+		<div class="text">
+			<p class="mb-4">Hi, even thinking of investing in the house of MADHUMILIND
+				Construction
+				, I have been to a few of these projects like bayview , anchorge , amalfi ,
+				sinovia , edina when I was home searching for my family.</p>
+			<p class="name">HIMANSHU GUJRATHI</p>
+			<span class="position">OWNER</span>
+		</div>
+	</div>
+</div>
+
+
+
+
+
+
+	<!-- <div class="container">
+			<div class="row no-gutters slider-text js-fullheight align-items-center" data-scrollax-parent="true">
+				<div class="col-lg-12 eco-animate">
+					<div class="mt-5">
+						<h1 class="mb-4 hero-style">MADHUMILIND residency  </h2>
+							<p class="hero-style">"We are known by our Supreme Construction & Satisfied Customers"</p>
+							<h2 class="mb-4 hero-style" style="font-weight:600">1BHK, 3BHK FLATS,SHOPS Are Available
+								</h3>
+					</div>
+					<div class="hero-style">
+						<a class="btn btn-primary " href="images/eco/TYPICAL FLOOR PLAN-03.jpg">SEE DETAIL FLOOR
+							PLAN</a>
+						<a class="btn btn-primary1 "
+							href="https://api.whatsapp.com/send?phone=919920034341&text= !">WHATSAPP NOW</a>
+					</div>
+				</div>
+			</div>
+
+		</div> -->
